@@ -8,7 +8,7 @@
 
 ### Cadastro de viagens
 
-`POST` tourbeck/api/v1/viagem
+`POST` rm95315.azurewebsites.net/api/v1/viagem
 
 **Exemplo de Entrada**
 
@@ -52,7 +52,7 @@
 
 ### Detalhes viagem
 
-`GET` tourbeck/api/v1/viagem/{id}
+`GET` rm95315.azurewebsites.net/api/v1/viagem/{id}
 
 **Exemplo de Resposta**
 
@@ -88,7 +88,7 @@
 
 ### Todas as viagens
 
-`GET` tourbeck/api/v1/viagem
+`GET` rm95315.azurewebsites.net/api/v1/viagem
 
 **Exemplo de Resposta**
 
@@ -124,7 +124,7 @@
 ---
 
 ### Deletar Viagem
-`DELETE` tourbeck/api/v1/viagem/{id}
+`DELETE` rm95315.azurewebsites.net/api/v1/viagem/{id}
 
 |código|descrição
 |-|-
@@ -134,7 +134,7 @@
 ---
 
 ### Editar Viagem
-`PUT` tourbeck/api/v1/viagem/{id}
+`PUT` rm95315.azurewebsites.net/api/v1/viagem/{id}
 
 **Exemplo de Entrada**
 
